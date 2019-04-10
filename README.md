@@ -1,12 +1,8 @@
 # 收藏夹
 
-### 前端
-
 #### CSS
 
 - bttn.css: https://bttn.surge.sh/
-
-### 后端
 
 #### PHP
 
