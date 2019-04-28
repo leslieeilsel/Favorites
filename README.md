@@ -11,3 +11,4 @@
 - laravel-helpers：https://github.com/sebastiaanluca/laravel-helpers
 - Arrayzy：https://github.com/bocharsky-bw/Arrayzy
 - PhpSpreadsheet：https://github.com/PHPOffice/PhpSpreadsheet
+- 30-seconds-of-php-code：https://github.com/appzcoder/30-seconds-of-php-code
